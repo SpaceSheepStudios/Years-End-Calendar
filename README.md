@@ -1,16 +1,11 @@
-# years_end_calendar
+# The Year's End Calendar!
 
-A new Flutter project.
+This is a flutter Advent Calendar app for people who don't celebrate christmas.
+It is adjustable for "normal" usage of 24 days. 
 
-## Getting Started
+## How to Use:
 
-This project is a starting point for a Flutter application.
+Write the Text of the Coupons for each day into the matching key in the JSON file.
+The Coupon will appear one the user taps the desired day!
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Days that are not yet available are not tappable.
