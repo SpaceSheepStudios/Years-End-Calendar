@@ -8,20 +8,17 @@ Please report back any Errors or Bugs you encounter.
 
 ## The App:
 
-<div class="row">
-  <div class="column">
-    <img src="/assets/screenshots/Screen-Home.png" alt="Homescreen" width="30%" height="30%">
-    </br>
-    <p>The Home Screen of the App as shown when the Calendar is active </p>
-    </br>
-  </div>
-  <div class="column">
-    <img src="/assets/screenshots/Screen-Cal.png" alt="Calendar View" width="30%" height="30%">
-    </br>
-    <p>The Calendar View of the App with the already "opened" days being a darker colour and the days that are not yet available being grey.</p>
-    </br>
-  </div>
-</div>
+</br>
+<img src="/assets/screenshots/Screen-Home.png" alt="Homescreen" width="30%" height="30%">
+</br>
+<p>The Home Screen of the App as shown when the Calendar is active </p>
+</br>
+
+</br>
+<img src="/assets/screenshots/Screen-Cal.png" alt="Calendar View" width="30%" height="30%">
+</br>
+<p>The Calendar View of the App with the already "opened" days being a darker colour and the days that are not yet available being grey.</p>
+</br>
 
 ## How to Use:
 
