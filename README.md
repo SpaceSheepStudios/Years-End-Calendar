@@ -8,11 +8,11 @@ Please report back any Errors or Bugs you encounter.
 
 ## The App:
 
-![Alt text](/assets/screenshots/screen-home.png?raw=true "Homescreen")
+![Home Screen](/assets/screenshots/Screen-Home.png?raw=true "Homescreen")
 
 The Home Screen of the App as shown when the Calendar is active
 
-![Alt text](/assets/screenshots/screen-cal.png?raw=true "Calendar View")
+![Calendar View](/assets/screenshots/Screen-Cal.png?raw=true "Calendar View")
 
 The Calendar View of the App with the already "opened" days being a darker colour and the days that are not yet available being grey.
 
